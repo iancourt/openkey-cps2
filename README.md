@@ -107,7 +107,7 @@ Details on *what* to program can be found in MAME's [CPS2 driver](https://github
 | 0011 0111 | gmdj | gmahou | Great Mahou Daisakusen (Japan 000121) |
 | 0011 1000 | hs2u | hsf2 | Hyper Street Fighter II: The Anniversary Edition (USA 040202) |
 | 0011 1001 | hs2a | hsf2a | Hyper Street Fighter II: The Anniversary Edition (Asia 040202) |
-| 0011 1010 | hs2j<br>hs2j | hsf2j<br>hsf2j1 | Hyper Street Fighter II: The Anniversary Edition (Japan 040202)<br>Hyper Street Fighter II: The Anniversary Edition (Japan 031222) |
+| 0011 1010 | hs2j<br>hs2j | hsf2j<br>hsf2j1<br>hsf2j2 | Hyper Street Fighter II: The Anniversary Edition (Japan 040202)<br>Street Fighter II: The Anniversary Edition (Japan 040123)<br>Hyper Street Fighter II: The Anniversary Edition (Japan 031222) |
 | 0011 1011 | majj | jyangoku | Jyangokushi: Haoh no Saihai (Japan 990527) |
 | 0011 1100 | rm2u | megaman2 | Mega Man 2: The Power Fighters (USA 960708) |
 | 0011 1101 | rm2a | megaman2a | Mega Man 2: The Power Fighters (Asia 960708) |
@@ -220,7 +220,7 @@ Details on *what* to program can be found in MAME's [CPS2 driver](https://github
 | 1010 1001 | xvsa<br>xvsa<br>xvsa<br>xvsa | xmvsfa<br>xmvsfar1<br>xmvsfar2<br>xmvsfar3 | X-Men Vs. Street Fighter (Asia 961023)<br>X-Men Vs. Street Fighter (Asia 961004)<br>X-Men Vs. Street Fighter (Asia 960919)<br>X-Men Vs. Street Fighter (Asia 960910) |
 | 1010 1010 | xvsb | xmvsfb | X-Men Vs. Street Fighter (Brazil 961023) |
 | 1010 1011 | xvsh | xmvsfh | X-Men Vs. Street Fighter (Hispanic 961004) |
-| 1010 1100 | xvsj<br>xvsj<br>xvsj<br>xvsj | xmvsfj<br>xmvsfjr1<br>xmvsfjr2<br>xmvsfjr3 | X-Men Vs. Street Fighter (Japan 961023)<br>X-Men Vs. Street Fighter (Japan 961004)<br>X-Men Vs. Street Fighter (Japan 960910)<br>X-Men Vs. Street Fighter (Japan 960909) |
+| 1010 1100 | xvsj<br>xvsj<br>xvsj<br>xvsj | xmvsfj<br>xmvsfjr1<br>xmvsfjr2<br>xmvsfjr3<br>xmvsfjr4 | X-Men Vs. Street Fighter (Japan 970113)<br>X-Men Vs. Street Fighter (Japan 961023)<br>X-Men Vs. Street Fighter (Japan 961004)<br>X-Men Vs. Street Fighter (Japan 960910)<br>X-Men Vs. Street Fighter (Japan 960909) |
 | 1010 1101 | xvsu<br>xvsu<br>xvsu | xmvsfu<br>xmvsfur1<br>xmvsfur2 | X-Men Vs. Street Fighter (USA 961023)<br>X-Men Vs. Street Fighter (USA 961004)<br>X-Men Vs. Street Fighter (USA 960910) |
 | 1010 1110 | | | Phoenix Key (0xff filled) |
 
